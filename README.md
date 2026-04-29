@@ -14,31 +14,39 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
-<p align="center">
-  <b>Computer Science Undergraduate focused on Cybersecurity & Intelligent Systems</b><br/>
-  RV University, Bengaluru
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-I’m driven by one thing — building systems that <b>actually solve real problems</b>, not just projects that sit on GitHub.
-</p>
+### 🎓 Profile
+- **Computer Science Undergraduate**  
+- Focus: **Cybersecurity & Intelligent Systems**  
+- 📍 RV University, Bengaluru  
 
-<p align="center">
-My work sits at the intersection of <b>backend engineering</b>, <b>security</b>, and <b>machine learning</b>.  
-I enjoy designing systems that can <b>detect anomalies</b>, <b>handle scale</b>, and <b>operate in real-world conditions</b>.
-</p>
+<br>
 
-<p align="center">
-Lately, I’ve been exploring <b>LLM-integrated systems</b>, <b>threat detection pipelines</b>, and how to move ideas from <b>prototype → production</b>.
-</p>
+⚡ *I build systems that solve real problems — not just projects that sit on GitHub.*
 
-<p align="center">
-⚡ I prefer building things that are <b>useful, scalable, and slightly difficult</b>.
-</p>
----
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+- 🛡️ ML-powered **Threat Detection Systems**  
+- ⚙️ **Scalable Backend Architectures & APIs**  
+- 🔍 **Anomaly Detection & LLM-integrated Systems**  
+- 🧩 **System Design + Security Engineering**
+
+<br>
+
+💡 *Interested in taking systems from **prototype → production***  
+
+</td>
+</tr>
+</table>
+
 
 ## 🧩 Current Focus
 
