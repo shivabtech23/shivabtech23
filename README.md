@@ -14,7 +14,7 @@
 </p>
 
 ---
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="26"/> About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png" width="20"/> About Me
 <tr>
 <td width="50%" valign="top">
 
