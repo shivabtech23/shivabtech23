@@ -18,27 +18,30 @@
 <td width="50%" valign="top">
 
 ### 🎓 Profile
-- **Computer Science Undergraduate**  
-- Focus: **Cybersecurity & Intelligent Systems**  
-- 📍 RV University, Bengaluru  
+- **B.Tech CSE (Cybersecurity)**  
+- RV University, Bengaluru  
 
 <br>
 
-⚡ *I build systems that solve real problems — not just projects that sit on GitHub.*
+### ⚡ Focus
+- Real-time intelligent systems  
+- Backend + security engineering  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 What I Do
-- 🛡️ ML-powered **Threat Detection Systems**  
-- ⚙️ **Scalable Backend Architectures & APIs**  
-- 🔍 **Anomaly Detection & LLM-integrated Systems**  
-- 🧩 **System Design + Security Engineering**
+### 🧠 What I Build
+- Intrusion & anomaly detection systems  
+- Scalable backend APIs & pipelines  
+- LLM-based workflow systems  
 
 <br>
 
-💡 *Interested in taking systems from **prototype → production***  
+### 🚀 Recent Work
+- Hybrid DDoS detection (RF + Isolation Forest)  
+- CNN-LSTM emotion recognition  
+- LLM workflow agent (MCP-based)  
 
 </td>
 
