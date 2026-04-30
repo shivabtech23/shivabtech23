@@ -14,7 +14,7 @@
 </p>
 
 ---
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/> About Me
 
 <table align="center">
 <tr>
