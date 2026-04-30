@@ -20,7 +20,7 @@ Focused on building <b>scalable, real-time systems</b> that don’t just work �
 My work sits at the intersection of <b>backend engineering, security, and machine learning</b> —<br>
 from designing intrusion detection systems to building low-latency pipelines and LLM-driven workflows.
 </p>
----
+
 
 <table align="center">
 <tr>
