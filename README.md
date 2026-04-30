@@ -10,7 +10,8 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"/> About Me
+## 🧠 About Me
+
 <p align="center">
 Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.<br>
 Focused on building <b>scalable, real-time systems</b> that don’t just work — but hold up under real-world pressure.
@@ -21,12 +22,10 @@ My work sits at the intersection of <b>backend engineering, security, and machin
 from designing intrusion detection systems to building low-latency pipelines and LLM-driven workflows.
 </p>
 
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="35"/><br>
 <b>Cybersecurity</b><br>
 <sub>Intrusion Detection · Network Analysis · Threat Modeling</sub>
 
@@ -34,7 +33,6 @@ from designing intrusion detection systems to building low-latency pipelines and
 
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/><br>
 <b>Backend</b><br>
 <sub>Python · SQL · REST APIs · System Design</sub>
 
@@ -42,7 +40,6 @@ from designing intrusion detection systems to building low-latency pipelines and
 
 <td align="center" width="33%">
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/><br>
 <b>AI/ML</b><br>
 <sub>Anomaly Detection · CNN-LSTM · Intelligent Pipelines</sub>
 
@@ -58,31 +55,19 @@ from designing intrusion detection systems to building low-latency pipelines and
 <tr>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"/><br>
 <sub>Real-time <b>intrusion & DDoS detection systems</b></sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="28"/><br>
 <sub><b>LLM-based workflow systems</b> with structured execution</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"/><br>
 <sub><b>Anomaly detection pipelines</b> for security applications</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"/><br>
 <sub>Backend systems optimized for <b>low-latency inference</b></sub>
-
 </td>
 
 </tr>
@@ -96,30 +81,23 @@ from designing intrusion detection systems to building low-latency pipelines and
 <tr>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"/><br>
 <sub><b>1st Prize</b><br>Bengaluru AI Hackathon</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"/><br>
 <sub><b>2nd Prize</b><br>Product Design Hackathon</sub>
-
 </td>
 
 <td align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"/><br>
 <sub><b>Winner</b><br>Avishkar Inter-College Exhibition</sub>
-
 </td>
 
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22"/> Current Focus
+---
+
+## ⚡ Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge"/>
@@ -131,7 +109,7 @@ from designing intrusion detection systems to building low-latency pipelines and
 
 ---
 
-## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> Open To
+## 🤝 Open To
 
 <p align="center">
 
@@ -143,7 +121,7 @@ from designing intrusion detection systems to building low-latency pipelines and
 
 ---
 
-## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="22"/> Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:arorashiv4228@gmail.com">
@@ -159,7 +137,7 @@ from designing intrusion detection systems to building low-latency pipelines and
 
 ---
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="22"/> GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
