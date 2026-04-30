@@ -1,11 +1,11 @@
-<!-- ===== HERO BANNER ===== -->
+<!-- ===== HERO BANNER (BLUE MODERN) ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,100:2563eb&height=220&section=header&text=Shiv%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Cybersecurity%20%7C%20ML%20Systems&descAlignY=60&descSize=18"/>
 </p>
 
-<!-- ===== SUB DIVIDER ===== -->
+<!-- ===== SUBTLE DIVIDER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:020617&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:020617&height=2&section=header"/>
 </p>
 
 <!-- ===== TYPING INTRO ===== -->
@@ -14,11 +14,7 @@
 </p>
 
 ---
-
-<!-- ===== ABOUT HEADER (DYNAMIC STYLE) ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:2563eb&height=110&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
-</p>
+## 🧠 About Me
 
 <table align="center">
 <tr>
@@ -51,12 +47,8 @@
 </tr>
 </table>
 
----
 
-<!-- ===== CURRENT FOCUS HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:2563eb&height=100&section=header&text=Current%20Focus&fontSize=28&fontColor=ffffff"/>
-</p>
+## 🧩 Current Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -68,10 +60,7 @@
 
 ---
 
-<!-- ===== OPEN TO HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:2563eb&height=100&section=header&text=Open%20To&fontSize=28&fontColor=ffffff"/>
-</p>
+## 🤝 Open To
 
 <p align="center">
 
@@ -83,10 +72,7 @@
 
 ---
 
-<!-- ===== CONNECT HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:2563eb&height=100&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
-</p>
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:arorashiv4228@gmail.com">
@@ -102,10 +88,7 @@
 
 ---
 
-<!-- ===== STATS HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:2563eb&height=100&section=header&text=GitHub%20Insights&fontSize=28&fontColor=ffffff"/>
-</p>
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -118,3 +101,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivabtech23&label=Profile+Views&color=2563EB&style=flat" />
 </p>
+
+put it and give all the version 
