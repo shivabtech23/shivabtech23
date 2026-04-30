@@ -86,7 +86,38 @@ from designing intrusion detection systems to building low-latency pipelines and
 </td>
 
 </tr>
-</table>---
+</table>
+
+---
+
+## 🏆 Achievements
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"/><br>
+<sub><b>1st Prize</b><br>Bengaluru AI Hackathon</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"/><br>
+<sub><b>2nd Prize</b><br>Product Design Hackathon</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"/><br>
+<sub><b>Winner</b><br>Avishkar Inter-College Exhibition</sub>
+
+</td>
+
+</tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22"/> Current Focus
 
