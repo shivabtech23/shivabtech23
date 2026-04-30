@@ -11,12 +11,15 @@
 ---
 
 ## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"/> About Me
+<p align="center">
+Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.<br>
+Focused on building <b>scalable, real-time systems</b> that don’t just work — but hold up under real-world pressure.
+</p>
 
-Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.  
-Focused on building **scalable, real-time systems** that operate reliably under real-world conditions.  
-
-My work centers around **backend engineering, security, and machine learning** — designing intrusion detection systems, developing low-latency pipelines, and building LLM-driven workflows.  
-
+<p align="center">
+My work sits at the intersection of <b>backend engineering, security, and machine learning</b> —<br>
+from designing intrusion detection systems to building low-latency pipelines and LLM-driven workflows.
+</p>
 ---
 
 <table align="center">
