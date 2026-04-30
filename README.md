@@ -12,43 +12,78 @@
 
 ## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"/> About Me
 
+Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.  
+Focused on building **scalable, real-time systems** that operate reliably under real-world conditions.  
+
+My work centers around **backend engineering, security, and machine learning** — designing intrusion detection systems, developing low-latency pipelines, and building LLM-driven workflows.  
+
+---
+
 <table align="center">
 <tr>
+<td align="center" width="33%">
 
-<td width="50%" valign="top">
-
-### 🎓 Profile
-- **B.Tech CSE (Cybersecurity)**  
-- RV University, Bengaluru  
-
-<br>
-
-### ⚡ Focus
-- Real-time intelligent systems  
-- Backend + security engineering  
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="35"/><br>
+<b>Cybersecurity</b><br>
+<sub>Intrusion Detection · Network Analysis · Threat Modeling</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🧠 What I Build
-- Intrusion & anomaly detection systems  
-- Scalable backend APIs & pipelines  
-- LLM-based workflow systems  
-
-<br>
-
-### 🚀 Recent Work
-- Hybrid DDoS detection (RF + Isolation Forest)  
-- CNN-LSTM emotion recognition  
-- LLM workflow agent (MCP-based)  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"/><br>
+<b>Backend</b><br>
+<sub>Python · SQL · REST APIs · System Design</sub>
 
 </td>
 
+<td align="center" width="33%">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/><br>
+<b>AI/ML</b><br>
+<sub>Anomaly Detection · CNN-LSTM · Intelligent Pipelines</sub>
+
+</td>
 </tr>
 </table>
 
 ---
+
+## 🛠️ What I'm Working On
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"/><br>
+<sub>Real-time <b>intrusion & DDoS detection systems</b></sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="28"/><br>
+<sub><b>LLM-based workflow systems</b> with structured execution</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="28"/><br>
+<sub><b>Anomaly detection pipelines</b> for security applications</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"/><br>
+<sub>Backend systems optimized for <b>low-latency inference</b></sub>
+
+</td>
+
+</tr>
+</table>---
 
 ## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22"/> Current Focus
 
