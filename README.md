@@ -1,11 +1,6 @@
-<!-- ===== HERO BANNER (BLUE MODERN) ===== -->
+<!-- ===== HERO BANNER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,100:2563eb&height=220&section=header&text=Shiv%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%7C%20Cybersecurity%20%7C%20ML%20Systems&descAlignY=60&descSize=18"/>
-</p>
-
-<!-- ===== SUBTLE DIVIDER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:020617&height=2&section=header"/>
 </p>
 
 <!-- ===== TYPING INTRO ===== -->
@@ -14,8 +9,12 @@
 </p>
 
 ---
-## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="26"/> About Me
+
+## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"/> About Me
+
+<table align="center">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎓 Profile
@@ -42,14 +41,16 @@
 💡 *Interested in taking systems from **prototype → production***  
 
 </td>
+
 </tr>
 </table>
 
+---
 
-## 🧩 Current Focus
+## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22"/> Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP%20Protocol-1E293B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/System%20Design-334155?style=for-the-badge"/>
@@ -58,7 +59,7 @@
 
 ---
 
-## 🤝 Open To
+## <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> Open To
 
 <p align="center">
 
@@ -70,7 +71,7 @@
 
 ---
 
-## 📬 Connect With Me
+## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="22"/> Connect With Me
 
 <p align="center">
   <a href="mailto:arorashiv4228@gmail.com">
@@ -86,7 +87,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="22"/> GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -95,9 +96,6 @@
 
 ---
 
-<!-- ===== PROFILE VIEWS ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivabtech23&label=Profile+Views&color=2563EB&style=flat" />
 </p>
-
-put it and give all the version 
