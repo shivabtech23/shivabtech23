@@ -34,7 +34,7 @@ from designing intrusion detection systems to building low-latency pipelines and
 <td align="center" width="33%">
 
 <b>Backend</b><br>
-<sub>Python · SQL · REST APIs · System Design</sub>
+<sub>Python · SQL · REST APIs · Backend Architecture</sub>
 
 </td>
 
