@@ -140,8 +140,8 @@ from designing intrusion detection systems to building low-latency pipelines and
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivarora-10&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarora-10&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabtech23&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
