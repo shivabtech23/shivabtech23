@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About M
 
 <p align="center">
 Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.<br>
