@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-er
+
 <p align="center">
 Computer Science undergraduate specializing in Cybersecurity at 📍 RV University, Bengaluru.<br>
 Focused on building <b>scalable, real-time systems</b> that don’t just work — but hold up under real-world pressure.
