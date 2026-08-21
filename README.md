@@ -22,25 +22,28 @@
 
 ### 🔭 About Me
 
-**B.Tech (Hons.) Computer Science (Cybersecurity)** student at **RV University, Bengaluru** — building systems that detect threats before they land, not after.
+**Breaking things to learn how they work. Building things so they don't break.**
 
-My work sits at the intersection of **network security**, **backend engineering**, and **applied AI/ML** — from intrusion detection engines that score traffic anomalies in near real time, to speech models that catch deepfake voice fraud across Indian languages. I've applied this as a **research assistant at Rochester Institute of Technology** (routing-protocol experiments on the FABRIC national testbed), a **cybersecurity intern** building hybrid DDoS detection, and as a **Top 2% national finalist** at the India AI Impact Buildathon 2026.
+CS undergrad at RV University, Bengaluru, specialising in cybersecurity. Most of what I build lives where security meets machine learning — intrusion detection that scores traffic as it arrives, models that flag deepfake voices in nine Indian languages, agents that don't hallucinate their way through a payment flow.
 
-* 🔐 **Cybersecurity** — Intrusion Detection · Network Defense · Traffic Analysis · Wireshark · Burp Suite · Metasploit
-* 🧠 **AI/ML** — PyTorch · TensorFlow · Hugging Face · CNN-LSTM · wav2vec2 · Anomaly Detection
-* ⚙️ **Backend** — Python · FastAPI · Flask · REST APIs · MySQL · Docker · Kubernetes
-* 🌐 **Networking** — OSPF · TCP/IP · Routing · SSH · FABRIC testbed
-* 🏛️ **Bengaluru, India** · RV University (2023 – 2027)
+Right now I'm running routing-protocol experiments on a national research testbed for RIT. Before that: hybrid DDoS detection, speech emotion models, and a top-2% finish at the India AI Impact Buildathon out of 40,000 entries.
+
+Mostly I like problems where getting it wrong is expensive.
+
+* 🔐 **Security** — Intrusion Detection · Traffic Analysis · Wireshark · Burp Suite · Metasploit
+* 🧠 **ML** — PyTorch · Hugging Face · CNN-LSTM · wav2vec2 · Anomaly Detection
+* ⚙️ **Backend** — Python · FastAPI · Flask · REST · Docker · Kubernetes
+* 🌐 **Networking** — OSPF · TCP/IP · Routing · SSH
 
 ---
 
 ### 🛰️ What I'm Working On
 
-> 🔬 **EIBP Routing Protocol Research** — benchmarking OSPF baselines on the FABRIC national testbed at RIT, with Python/FabLib automation for repeatable slice provisioning and result collection.
+> 🔬 **EIBP routing research @ RIT** — OSPF baselines on the FABRIC testbed, automated end-to-end so the runs actually reproduce.
 
-> 🎙️ **VaaniRekha** — multilingual AI voice-fraud detection API spanning 9+ Indian languages, using a fine-tuned wav2vec2-large-xlsr classifier with sub-6s end-to-end latency.
+> 🎙️ **VaaniRekha** — voice-fraud detection across 9+ Indian languages. Fine-tuned wav2vec2, under 6s round trip.
 
-> 🤖 **LLM Workflow Agents** — schema-validated, hallucination-resistant agentic workflows with policy enforcement, branching logic, and fallback handling.
+> 🤖 **LLM workflow agents** — schema-validated execution with real fallback handling, because "usually correct" isn't a spec.
 
 ---
 
