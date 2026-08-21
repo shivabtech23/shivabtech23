@@ -2,19 +2,19 @@
   <defs>
     <style>
       .bg { fill: #0d1117; }
-      .art { font-family: 'Courier New', Consolas, monospace; font-size: 15px; font-weight: bold; white-space: pre; }
+      .art { font-family: 'Courier New', Consolas, monospace; font-size: 15px; font-weight: bold; white-space: pre; text-anchor: middle; }
       .g1 { fill: #2ecc40; }
       .g2 { fill: #39ff6a; }
-      .cmd { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #c9d1d9; }
+      .cmd { font-family: 'Courier New', Consolas, monospace; font-size: 14px; fill: #c9d1d9; text-anchor: middle; }
       .prompt { fill: #ff6b6b; }
     </style>
   </defs>
   <rect class="bg" width="900" height="220" rx="8"/>
-  <text x="20" y="35" class="art g1">███████╗██╗  ██╗██╗██╗   ██╗     █████╗ ██████╗  ██████╗ ██████╗  █████╗</text>
-  <text x="20" y="55" class="art g1">██╔════╝██║  ██║██║██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗</text>
-  <text x="20" y="75" class="art g2">███████╗███████║██║██║   ██║    ███████║██████╔╝██║   ██║██████╔╝███████║</text>
-  <text x="20" y="95" class="art g2">╚════██║██╔══██║██║╚██╗ ██╔╝    ██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║</text>
-  <text x="20" y="115" class="art g1">███████║██║  ██║██║ ╚████╔╝     ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║</text>
-  <text x="20" y="135" class="art g1">╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝</text>
-  <text x="20" y="175" class="cmd"><tspan class="prompt">[SYSTEM::INIT]</tspan> &gt; shiv_arora // SEC_ENGINEERING &#8226; APPLIED_ML &#8226; BACKEND_SYSTEMS</text>
+  <text x="450" y="35" class="art g1">███████╗██╗  ██╗██╗██╗   ██╗     █████╗ ██████╗  ██████╗ ██████╗  █████╗</text>
+  <text x="450" y="55" class="art g1">██╔════╝██║  ██║██║██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗</text>
+  <text x="450" y="75" class="art g2">███████╗███████║██║██║   ██║    ███████║██████╔╝██║   ██║██████╔╝███████║</text>
+  <text x="450" y="95" class="art g2">╚════██║██╔══██║██║╚██╗ ██╔╝    ██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║</text>
+  <text x="450" y="115" class="art g1">███████║██║  ██║██║ ╚████╔╝     ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║</text>
+  <text x="450" y="135" class="art g1">╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝</text>
+  <text x="450" y="175" class="cmd"><tspan class="prompt">[SYSTEM::INIT]</tspan> &gt; shiv_arora // SEC_ENGINEERING &#8226; APPLIED_ML &#8226; BACKEND_SYSTEMS</text>
 </svg>
