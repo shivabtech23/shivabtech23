@@ -4,12 +4,12 @@
 <img src="assets/terminal-header.svg" alt="shiv_arora terminal header" width="100%" />
 
 
-<a href="https://github.com/shivarora">
+<a href="https://github.com/shivabtech23">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Building+resilient+backend+systems...;Designing+intrusion+detection+engines...;Shipping+applied+ML+pipelines...;Orchestrating+deterministic+LLM+tool+calls..." alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shivarora&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shivabtech23&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge" alt="profile views" />
 </p>
 
 </div>
@@ -30,9 +30,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -99,7 +99,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 * 🏅 **Winner** — Avishkar Inter-College Technical Exhibition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivarora&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivabtech23&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
 </div>
 
 ---
@@ -108,12 +108,12 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivarora&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarora&layout=compact&theme=algolia&hide_border=true" alt="Top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivabtech23&layout=compact&theme=algolia&hide_border=true" alt="Top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarora&theme=algolia&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabtech23&theme=algolia&hide_border=true" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarora&theme=react-dark&hide_border=true" alt="activity graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivabtech23&theme=react-dark&hide_border=true" alt="activity graph" width="90%" />
 
 </div>
 
@@ -123,9 +123,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ### 📡 Connect
 
-<a href="https://linkedin.com/in/shivarora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shivarora@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/shivarora"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <sub>⚡ Terminal boots fast. Systems run faster.</sub>
 
