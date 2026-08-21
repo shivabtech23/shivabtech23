@@ -1,26 +1,35 @@
-<!-- ===== HERO BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:1e1b4b,70:312e81,100:065f46&height=220&section=header&text=Shiv%20Arora&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Systems%20Architecture%20%E2%97%86%20Cybersecurity%20%E2%97%86%20Applied%20ML&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<!-- ===== CYBER-TERMINAL 3D HEADER ===== -->
+<div align="center">
+
+```ansi
+[1;35m  ███████╗██╗  ██╗██╗██╗   ██╗     █████╗ ██████╗  ██████╗ ██████╗  █████╗ 
+[1;34m  ██╔════╝██║  ██║██║██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
+[1;36m  ███████╗███████║██║██║   ██║    ███████║██████╔╝██║   ██║██████╔╝███████║
+[1;32m  ╚════██║██╔══██║██║╚██╗ ██╔╝    ██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║
+[1;33m  ███████║██║  ██║██║ ╚████╔╝     ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║
+[1;30m  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+```bash
+[SYSTEM::INIT] > shiv_arora // SEC_ENGINEERING • APPLIED_ML • BACKEND_SYSTEMS
+```
+
+<a href="https://github.com/shivarora">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Building+resilient+backend+systems...;Designing+intrusion+detection+engines...;Shipping+applied+ML+pipelines...;Orchestrating+deterministic+LLM+tool+calls..." alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shivarora&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/shivarora?label=FOLLOWERS&style=for-the-badge&color=32CD32" alt="followers" />
 </p>
 
-<!-- ===== SOCIAL & QUICK LINKS ===== -->
-<p align="center">
-  <a href="mailto:arorashiv4228@gmail.com"><img src="https://img.shields.io/badge/Email-arorashiv-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shivarora1/"><img src="https://img.shields.io/badge/LinkedIn-shivarora1-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.leetcode.com/shivaroraa1"><img src="https://img.shields.io/badge/LeetCode-shivaroraa1-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <img src="https://komarev.com/ghpvc/?username=shivabtech23&label=Telemetry+Views&color=4338ca&style=flat-square" alt="Views" />
-</p>
-
-<!-- ===== LIVE TERMINAL INTERFACE ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=720&lines=%E2%96%B6+node_daemon+--listen+0.0.0.0%3A8080+%5BREADY%5D;%E2%96%B6+packet_inspection+%3A%3A+deep_telemetry+%2B+ddos_mitigation;%E2%96%B6+inference_engine+%3A%3A+cnn_lstm_anomaly_detection;%E2%96%B6+status+%3A%3A+CS+Undergrad+%40+RV+University+%7C+Building+Resilient+Infra" />
-</p>
+</div>
 
 ---
 
 ### 🌐 System Architecture & Engineering
 
-I design high-throughput backend infrastructure, intrusion detection engines, and applied machine learning pipelines designed for resilient runtime execution.
+I design high-throughput backend infrastructure, intrusion detection engines, and applied machine learning pipelines built for resilient runtime execution.
 
 * 🛡️ **Network Security & Defense:** Deep packet inspection, traffic anomaly scoring, and automated mitigation routines.
 * ⚙️ **High-Performance Backends:** Event-driven architecture, distributed caching layers, and high-concurrency APIs.
@@ -30,40 +39,66 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ### 🕹️ 3D Contribution Landscape
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivarora/shivarora/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+> Generated via [Platane/snk](https://github.com/Platane/snk) — set up as a scheduled GitHub Action in this repo to auto-refresh on every push.
 
 ---
 
 ### 🛠️ Core Technology Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Frameworks & Security -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+**Backend & Infra**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+**ML / Security**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+</div>
 
 ---
 
 ### 🔬 Active Research & Engineering Focus
 
 | Domain | Systems & Implementation | Key Target Outcomes |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **Intrusion Defense** | Real-time traffic anomaly and DDoS filtering engines | Low-latency state inspection & automated packet drop rules |
 | **Sequential Intelligence** | Deep learning pipelines for sequential log telemetry | CNN-LSTM architectures for early deviation warnings |
-| **Agentic Infrastructure**| MCP integration & deterministic LLM execution | Structured context injection and safe tool calling |
+| **Agentic Infrastructure** | MCP integration & deterministic LLM execution | Structured context injection and safe tool calling |
 | **Distributed Services** | Scalable REST & asynchronous processing layers | Concurrent task queues, caching layers, and high uptime |
 
 ---
@@ -74,12 +109,35 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 * 🥈 **2nd Prize** — Product Design Hackathon
 * 🏅 **Winner** — Avishkar Inter-College Technical Exhibition
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivarora&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+</div>
+
 ---
 
 ### 📊 Real-Time Profile Telemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivabtech23&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabtech23&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivarora&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarora&layout=compact&theme=algolia&hide_border=true" alt="Top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivarora&theme=algolia&hide_border=true" alt="streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarora&theme=react-dark&hide_border=true" alt="activity graph" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 Connect
+
+<a href="https://linkedin.com/in/shivarora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shivarora@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/shivarora"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+<sub>⚡ Terminal boots fast. Systems run faster.</sub>
+
+</div>
