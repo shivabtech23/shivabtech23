@@ -71,7 +71,7 @@ Mostly I like problems where getting it wrong is expensive.
 <td valign="middle"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="40" /><br><sub>Kali Linux · Wireshark · Nmap · Metasploit · Burp Suite</sub></td>
 </tr>
 </table>
----
+
 
 ### 💼 Experience
 
