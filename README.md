@@ -12,6 +12,14 @@
 
 ---
 
+### 🎯 Currently seeking Cybersecurity / AI-ML / Backend internship & full-time opportunities
+
+| 🎓 Degree | 📍 Location | 🛡️ Certified | 📈 Focus |
+| --- | --- | --- | --- |
+| B.Tech (Hons.) CSE — Cybersecurity, RV University (2023–2027) | Bengaluru, India | IBM Kubernetes & OpenShift · IBM Network Security · NPTEL Affective Computing (Elite) | AppSec · Applied ML · Backend Systems |
+
+---
+
 ### 🌐 System Architecture & Engineering
 
 I design high-throughput backend infrastructure, intrusion detection engines, and applied machine learning pipelines built for resilient runtime execution.
