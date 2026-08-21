@@ -97,6 +97,20 @@ Mostly I like problems where getting it wrong is expensive.
 <tr>
 <td width="50%" valign="top">
 
+#### 🚗 Sync Navigator
+**In-Vehicle Companion on SmartDeviceLink**
+
+> Android app projecting onto automotive head units
+
+- 🔌 **SmartDeviceLink** integration over USB / Bluetooth transport
+- 🎬 `DisplaySequencer` paces the HMI boot and screen-state flow
+- 🧭 Head-unit-safe UI built for driver-distraction constraints
+- 🧪 Validated against the generic HMI / Manticore simulator
+- 🛠️ `Kotlin` `Android` `SDL` `SdlService`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🎙️ VaaniRekha · `Feb 2026`
 **AI Voice Fraud Detection API**
 
@@ -111,6 +125,8 @@ Mostly I like problems where getting it wrong is expensive.
 🏅 *GUVI × HCL Hackathon*
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🤖 UPI Autopay Agent · `Jan 2026`
@@ -125,8 +141,6 @@ Mostly I like problems where getting it wrong is expensive.
 - 🛠️ `Python` `LLM Orchestration` `JSON Schema`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🛡️ Hybrid DDoS Detection · `Jun 2025`
@@ -141,21 +155,6 @@ Mostly I like problems where getting it wrong is expensive.
 - 🛠️ `Python` `Flask` `scikit-learn` `Scapy`
 
 🏅 *RV University security internship*
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚑 ResQ
-**AI-Driven IoT Emergency Response**
-
-> Emergency response system with AI-assisted triage
-
-- 📱 QR-based access for low-connectivity settings
-- 🧠 AI-generated summaries for rapid triage
-- 🔗 IoT sensor integration for live incident data
-- 🛠️ `Python` `IoT` `AI/ML` `QR`
-
-🏆 *1st place — Avishkar Inter-College Exhibition*
 
 </td>
 </tr>
