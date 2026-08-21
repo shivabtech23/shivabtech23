@@ -1,0 +1,31 @@
+<svg width="900" height="338" viewBox="0 0 900 338" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39ff6a" stop-opacity="0.10"/><stop offset="0.55" stop-color="#39ff6a" stop-opacity="0"/></linearGradient>
+<linearGradient id="ab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff6a"/><stop offset="1" stop-color="#2ecc40" stop-opacity="0.35"/></linearGradient>
+</defs>
+<rect width="900" height="338" rx="10" fill="#0d1117"/>
+<rect x="18" y="10" width="864" height="318" rx="9" fill="#161b22"/>
+<rect x="18" y="10" width="864" height="318" rx="9" fill="url(#cg)"/>
+<rect x="18" y="10" width="4" height="318" rx="2" fill="url(#ab)"/>
+<text x="48" y="42" font-size="12.5" font-weight="600" fill="#39ff6a">University</text>
+<text x="230" y="42" font-size="13" fill="#c9d1d9">RV University, Bengaluru</text>
+<line x1="48" y1="55" x2="858" y2="55" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="82" font-size="12.5" font-weight="600" fill="#39ff6a">Degree</text>
+<text x="230" y="82" font-size="13" fill="#c9d1d9">B.Tech (Hons.) Computer Science &amp; Engineering</text>
+<line x1="48" y1="95" x2="858" y2="95" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="122" font-size="12.5" font-weight="600" fill="#39ff6a">Specialization</text>
+<text x="230" y="122" font-size="13" fill="#c9d1d9">Cybersecurity</text>
+<line x1="48" y1="135" x2="858" y2="135" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="162" font-size="12.5" font-weight="600" fill="#39ff6a">Duration</text>
+<text x="230" y="162" font-size="13" fill="#c9d1d9">2023 — 2027</text>
+<line x1="48" y1="175" x2="858" y2="175" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="202" font-size="12.5" font-weight="600" fill="#39ff6a">CGPA</text>
+<text x="230" y="202" font-size="13" fill="#c9d1d9">7.76 / 10</text>
+<line x1="48" y1="215" x2="858" y2="215" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="242" font-size="12.5" font-weight="600" fill="#39ff6a">Key Courses</text>
+<text x="230" y="242" font-size="13" fill="#c9d1d9">DSA · OOP · DBMS · Operating Systems · Computer Networks · Software Testing</text>
+<line x1="48" y1="255" x2="858" y2="255" stroke="#2ecc40" stroke-opacity="0.12"/>
+<text x="48" y="282" font-size="12.5" font-weight="600" fill="#39ff6a">Certifications</text>
+<text x="230" y="282" font-size="13" fill="#c9d1d9">IBM Kubernetes &amp; OpenShift · IBM Network Security · Cisco Packet Tracer</text>
+<text x="230" y="300" font-size="13" fill="#c9d1d9">NPTEL Affective Computing (Elite) · NPTEL Software Testing · Deloitte Cyber Simulation</text>
+</svg>
