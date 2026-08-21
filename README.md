@@ -12,9 +12,9 @@
 
 ---
 
-### 🎯 Currently seeking Cybersecurity / AI-ML / Backend internship & full-time opportunities
+### 🚀 Currently seeking Cybersecurity / AI-ML / Backend internship & full-time opportunities
 
-| 🎓 Degree | 📍 Location | 🛡️ Certified | 📈 Focus |
+| 🏛️ Degree | 🌏 Location | 📜 Certified | 🎯 Focus |
 | --- | --- | --- | --- |
 | B.Tech (Hons.) CSE — Cybersecurity, RV University (2023–2027) | Bengaluru, India | IBM Kubernetes & OpenShift · IBM Network Security · NPTEL Affective Computing (Elite) | AppSec · Applied ML · Backend Systems |
 
@@ -38,7 +38,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 <br>
 <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=E76F00&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117" />
 
@@ -50,7 +50,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 <img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Kafka-161b22?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=0d1117" />
 
 **ML / Security**
 <br>
@@ -59,6 +59,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 <img src="https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=nmap&logoColor=FFFFFF&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=2596CD&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117" />
 
 **Tools**
 <br>
@@ -84,9 +87,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ### 🏆 Recognitions & Milestones
 
+* 🌏 **Top 2% National Finalist** — India AI Impact Buildathon 2026 (40,000+ participants, GUVI × HCL)
 * 🥇 **1st Prize** — Bengaluru AI Hackathon
-* 🥈 **2nd Prize** — Product Design Hackathon
-* 🏅 **Winner** — Avishkar Inter-College Technical Exhibition
+* 🏅 **Winner** — Avishkar Inter-College Exhibition, for *ResQ*, an AI-driven IoT emergency response system
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivabtech23&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies" />
@@ -114,7 +117,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 ### 📡 Connect
 
 <a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
-<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
+<a href="mailto:arorashiv4228@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
 <a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0d1117" /></a>
 
 <sub>⚡ Terminal boots fast. Systems run faster.</sub>
