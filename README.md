@@ -97,7 +97,7 @@ Mostly I like problems where getting it wrong is expensive.
 <tr>
 <td width="50%" valign="top">
 
-#### 🚗 Sync Navigator
+#### 🚗 Sync Navigator`July 2026`
 **In-Vehicle Companion on SmartDeviceLink**
 
 > Android app projecting onto automotive head units
