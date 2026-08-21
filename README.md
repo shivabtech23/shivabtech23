@@ -162,14 +162,9 @@ Mostly I like problems where getting it wrong is expensive.
 
 ### 🏆 Recognitions & Milestones
 
-* 🌏 **Top 2% National Finalist** — India AI Impact Buildathon 2026 (40,000+ participants, GUVI × HCL)
-* 🥇 **1st Prize** — Bengaluru AI Hackathon
-* 🏅 **Winner** — Avishkar Inter-College Exhibition, for *ResQ*, an AI-driven IoT emergency response system
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivabtech23&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="assets/achievements.svg" alt="achievements" width="900" />
 </div>
-
 ---
 
 ### 📊 Real-Time Profile Telemetry
