@@ -13,7 +13,7 @@
 
 <!-- ===== LIVE TERMINAL INTERFACE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=720&lines=%E2%96%B6+node_daemon+--listen+0.0.0.0%3A8080+%5BREADY%5D;%E2%96%B6+packet_inspection+%3A%3A+deep_telemetry+%2B+ddos_mitigation;%E2%96%B6+inference_engine+%3A%3A+cnn_lstm_anomaly_detection;%E2%96%B6+status+%3A%3A+CS+Undergrad+%40+RV+University+%7C+Building+Resilient+Infra"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=720&lines=%E2%96%B6+node_daemon+--listen+0.0.0.0%3A8080+%5BREADY%5D;%E2%96%B6+packet_inspection+%3A%3A+deep_telemetry+%2B+ddos_mitigation;%E2%96%B6+inference_engine+%3A%3A+cnn_lstm_anomaly_detection;%E2%96%B6+status+%3A%3A+CS+Undergrad+%40+RV+University+%7C+Building+Resilient+Infra" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 ### 🕹️ 3D Contribution Landscape
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=shivabtech23&theme=nord" width="95%" alt="3D Profile Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
 ---
