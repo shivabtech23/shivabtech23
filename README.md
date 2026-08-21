@@ -28,36 +28,36 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117" />
 
 **Backend & Infra**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Kafka-161b22?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF&labelColor=0d1117" />
 
 **ML / Security**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=nmap&logoColor=FFFFFF&labelColor=0d1117" />
 
 **Tools**
 <br>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=39ff6a&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0d1117" />
 
 </div>
 
@@ -105,9 +105,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ### 📡 Connect
 
-<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff6a&labelColor=161b22" /></a>
-<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff6a&labelColor=161b22" /></a>
-<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=39ff6a&labelColor=161b22" /></a>
+<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
+<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
+<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0d1117" /></a>
 
 <sub>⚡ Terminal boots fast. Systems run faster.</sub>
 
