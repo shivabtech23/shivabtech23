@@ -1,0 +1,52 @@
+<svg width="900" height="396" viewBox="0 0 900 396" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#39ff6a" stop-opacity="0.10"/><stop offset="0.55" stop-color="#39ff6a" stop-opacity="0"/></linearGradient>
+<linearGradient id="ab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff6a"/><stop offset="1" stop-color="#2ecc40" stop-opacity="0.35"/></linearGradient>
+</defs>
+<rect width="900" height="396" rx="10" fill="#0d1117"/>
+<rect x="18" y="18" width="864" height="112" rx="9" fill="#161b22"/>
+<rect x="18" y="18" width="864" height="112" rx="9" fill="url(#cg)"/>
+<rect x="18" y="18" width="4" height="112" rx="2" fill="url(#ab)"/>
+<text x="44" y="50" font-size="16.5" font-weight="700" fill="#39ff6a">Research Assistant<tspan font-size="14" font-weight="400" fill="#6e7681">  —  </tspan><tspan font-size="14.5" font-weight="500" fill="#c9d1d9">EIBP Routing Protocol</tspan></text>
+<text x="44" y="72" font-size="12.5" fill="#8b949e">Rochester Institute of Technology · Remote</text>
+<text x="44" y="95" font-size="13" fill="#c9d1d9">Benchmarking routing performance on a national research testbed, fully automated.</text>
+<rect x="727" y="34" width="139" height="23" rx="11.5" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.4"/>
+<text x="796.5" y="49.5" font-size="11.5" fill="#ffbd2e" text-anchor="middle">Jun 2026 — Present</text>
+<circle cx="713" cy="45.5" r="4.5" fill="#39ff6a"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<rect x="44" y="106" width="55.8" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="71.9" y="118.5" font-size="10.5" fill="#8b949e" text-anchor="middle">FABRIC</text>
+<rect x="106.8" y="106" width="55.8" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="134.7" y="118.5" font-size="10.5" fill="#8b949e" text-anchor="middle">Python</text>
+<rect x="169.6" y="106" width="55.8" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="197.5" y="118.5" font-size="10.5" fill="#8b949e" text-anchor="middle">FabLib</text>
+<rect x="232.4" y="106" width="43.2" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="254" y="118.5" font-size="10.5" fill="#8b949e" text-anchor="middle">OSPF</text>
+<rect x="18" y="142" width="864" height="112" rx="9" fill="#161b22"/>
+<rect x="18" y="142" width="864" height="112" rx="9" fill="url(#cg)"/>
+<rect x="18" y="142" width="4" height="112" rx="2" fill="url(#ab)"/>
+<text x="44" y="174" font-size="16.5" font-weight="700" fill="#39ff6a">Cybersecurity Intern<tspan font-size="14" font-weight="400" fill="#6e7681">  —  </tspan><tspan font-size="14.5" font-weight="500" fill="#c9d1d9">Hybrid Intrusion Detection</tspan></text>
+<text x="44" y="196" font-size="12.5" fill="#8b949e">RV University, Bengaluru</text>
+<text x="44" y="219" font-size="13" fill="#c9d1d9">Layered ML threat scoring for DDoS detection over live network traffic.</text>
+<rect x="720.5" y="158" width="145.5" height="23" rx="11.5" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.4"/>
+<text x="793.25" y="173.5" font-size="11.5" fill="#ffbd2e" text-anchor="middle">Jun 2025 — Jul 2025</text>
+<rect x="44" y="230" width="99.9" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="93.95" y="242.5" font-size="10.5" fill="#8b949e" text-anchor="middle">Random Forest</text>
+<rect x="150.9" y="230" width="118.8" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="210.3" y="242.5" font-size="10.5" fill="#8b949e" text-anchor="middle">Isolation Forest</text>
+<rect x="276.7" y="230" width="49.5" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="301.45" y="242.5" font-size="10.5" fill="#8b949e" text-anchor="middle">Flask</text>
+<rect x="18" y="266" width="864" height="112" rx="9" fill="#161b22"/>
+<rect x="18" y="266" width="864" height="112" rx="9" fill="url(#cg)"/>
+<rect x="18" y="266" width="4" height="112" rx="2" fill="url(#ab)"/>
+<text x="44" y="298" font-size="16.5" font-weight="700" fill="#39ff6a">AI/ML Research Intern<tspan font-size="14" font-weight="400" fill="#6e7681">  —  </tspan><tspan font-size="14.5" font-weight="500" fill="#c9d1d9">Speech Emotion Recognition</tspan></text>
+<text x="44" y="320" font-size="12.5" fill="#8b949e">Dhee Center for AI &amp; Data Science</text>
+<text x="44" y="343" font-size="13" fill="#c9d1d9">CNN-LSTM architecture tuning that lifted recognition accuracy by 10%.</text>
+<rect x="792" y="282" width="74" height="23" rx="11.5" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.4"/>
+<text x="829" y="297.5" font-size="11.5" fill="#ffbd2e" text-anchor="middle">Jun 2024</text>
+<rect x="44" y="354" width="68.4" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="78.2" y="366.5" font-size="10.5" fill="#8b949e" text-anchor="middle">CNN-LSTM</text>
+<rect x="119.4" y="354" width="81" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="159.9" y="366.5" font-size="10.5" fill="#8b949e" text-anchor="middle">TensorFlow</text>
+<rect x="207.4" y="354" width="62.1" height="18" rx="9" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.25"/>
+<text x="238.45" y="366.5" font-size="10.5" fill="#8b949e" text-anchor="middle">RAVDESS</text>
+</svg>
