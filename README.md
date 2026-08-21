@@ -68,9 +68,10 @@ Mostly I like problems where getting it wrong is expensive.
 </tr>
 <tr>
 <td width="170" align="right" valign="middle"><b>Security</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="42" />  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a&labelColor=161b22" height="28" /> <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=39ff6a&labelColor=161b22" height="28" /> <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=39ff6a&labelColor=161b22" height="28" /> <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=39ff6a&labelColor=161b22" height="28" /></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="42" />&nbsp;<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" /></td>
 </tr>
 </table>
+
 ---
 
 ### 💼 Experience
