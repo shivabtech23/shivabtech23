@@ -91,14 +91,75 @@ Mostly I like problems where getting it wrong is expensive.
 
 ---
 
-### 🔬 Active Research & Engineering Focus
+### 🗂️ Featured Projects
 
-| Domain | Systems & Implementation | Key Target Outcomes |
-| --- | --- | --- |
-| **Intrusion Defense** | Real-time traffic anomaly and DDoS filtering engines | Low-latency state inspection & automated packet drop rules |
-| **Sequential Intelligence** | Deep learning pipelines for sequential log telemetry | CNN-LSTM architectures for early deviation warnings |
-| **Agentic Infrastructure** | MCP integration & deterministic LLM execution | Structured context injection and safe tool calling |
-| **Distributed Services** | Scalable REST & asynchronous processing layers | Concurrent task queues, caching layers, and high uptime |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ VaaniRekha
+**AI Voice Fraud Detection API**
+
+> Catches deepfake voices and fraud keywords across Indian languages
+
+- 🗣️ Fraud detection in **9+ Indian languages**
+- 🧠 Fine-tuned **wav2vec2-large-xlsr** classifier
+- ⚡ **Sub-6s** end-to-end latency, 3-stage inference pipeline
+- 📈 Tiered risk scoring with **Sarvam AI** STT/translation
+- 🛠️ `Python` `FastAPI` `wav2vec2` `Docker` `Railway`
+
+🏅 *Built at GUVI × HCL Hackathon*
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ Hybrid DDoS Detection
+**Layered ML Threat Scoring**
+
+> Two-model intrusion detection over real network flow telemetry
+
+- 🌲 **Random Forest + Isolation Forest** for layered scoring
+- 📊 **150K+** flow records, 10+ engineered CICIDS2017 features
+- 🎯 **90%** detection accuracy
+- 📡 Attack traffic simulated with **Scapy** (1K–10K packets)
+- 🛠️ `Python` `Flask` `scikit-learn` `Scapy`
+
+🏅 *RV University security internship*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 UPI Autopay Agent
+**Hallucination-Resistant LLM Workflows**
+
+> Workflow-driven agent for UPI autopay resolution
+
+- 🧩 Intent classification + entity extraction
+- ✅ **JSON schema validation** on every execution step
+- 🔀 Branching logic, policy enforcement, fallback handling
+- 📐 Deterministic multi-step agentic workflows
+- 🛠️ `Python` `LLM Orchestration` `JSON Schema`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚑 ResQ
+**AI-Driven IoT Emergency Response**
+
+> Emergency response system with AI-assisted triage
+
+- 📱 QR-based access for low-connectivity settings
+- 🧠 AI-generated summaries for rapid triage
+- 🔗 IoT sensor integration for live incident data
+- 🛠️ `Python` `IoT` `AI/ML` `QR`
+
+🏆 *1st place — Avishkar Inter-College Exhibition*
+
+</td>
+</tr>
+</table>
 
 ---
 
