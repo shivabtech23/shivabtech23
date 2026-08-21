@@ -51,27 +51,26 @@ Mostly I like problems where getting it wrong is expensive.
 
 <table>
 <tr>
-<td width="170" align="right" valign="middle"><b>Languages</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,bash&theme=dark" height="42" /></td>
+<td width="150" align="right" valign="middle"><b>Languages</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,bash&theme=dark" height="40" /><br><sub>Python · C++ · Java · JavaScript · TypeScript · Bash · SQL</sub></td>
 </tr>
 <tr>
-<td width="170" align="right" valign="middle"><b>Backend &amp; APIs</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postman&theme=dark" height="42" /></td>
+<td width="150" align="right" valign="middle"><b>Backend &amp; APIs</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mysql,postman&theme=dark" height="40" /><br><sub>FastAPI · Flask · Node.js · MySQL · Postman · REST APIs</sub></td>
 </tr>
 <tr>
-<td width="170" align="right" valign="middle"><b>AI / ML</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="42" /></td>
+<td width="150" align="right" valign="middle"><b>AI / ML</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="40" /><br><sub>PyTorch · TensorFlow · scikit-learn · Hugging Face · CNN-LSTM · wav2vec2</sub></td>
 </tr>
 <tr>
-<td width="170" align="right" valign="middle"><b>Cloud &amp; DevOps</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git&theme=dark" height="42" /></td>
+<td width="150" align="right" valign="middle"><b>Cloud &amp; DevOps</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git&theme=dark" height="40" /><br><sub>Docker · Kubernetes · AWS · Nginx · Linux · Git · CI/CD</sub></td>
 </tr>
 <tr>
-<td width="170" align="right" valign="middle"><b>Security</b></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="42" />&nbsp;<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" />&nbsp;<img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&labelColor=0d1117&color=161b22" height="30" /></td>
+<td width="150" align="right" valign="middle"><b>Security</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="40" /><br><sub>Kali Linux · Wireshark · Nmap · Metasploit · Burp Suite</sub></td>
 </tr>
 </table>
-
 ---
 
 ### 💼 Experience
