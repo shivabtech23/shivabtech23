@@ -25,14 +25,10 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 ### 🕹️ 3D Contribution Landscape
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shivabtech23/shivabtech23/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="3D contribution graph" src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </div>
 
-> Generated via [Platane/snk](https://github.com/Platane/snk) — set up as a scheduled GitHub Action in this repo to auto-refresh on every push.
+> Generated via [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — refreshed automatically by a scheduled GitHub Action in this repo.
 
 ---
 
