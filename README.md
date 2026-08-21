@@ -165,7 +165,7 @@ Mostly I like problems where getting it wrong is expensive.
 <div align="center">
   <img src="assets/achievements.svg" alt="achievements" width="900" />
 </div>
----
+
 
 ### 📊 Real-Time Profile Telemetry
 
