@@ -8,7 +8,7 @@
 <rect x="18" y="18" width="864" height="112" rx="9" fill="url(#cg)"/>
 <rect x="18" y="18" width="4" height="112" rx="2" fill="url(#ab)"/>
 <text x="44" y="50" font-size="16.5" font-weight="700" fill="#39ff6a">Research Assistant<tspan font-size="14" font-weight="400" fill="#6e7681">  —  </tspan><tspan font-size="14.5" font-weight="500" fill="#c9d1d9">EIBP Routing Protocol</tspan></text>
-<text x="44" y="72" font-size="12.5" fill="#8b949e">Rochester Institute of Technology · Remote</text>
+<text x="44" y="72" font-size="12.5" fill="#8b949e">Rochester Institute of Technology, New York · Remote</text>
 <text x="44" y="95" font-size="13" fill="#c9d1d9">Benchmarking routing performance on a national research testbed, fully automated.</text>
 <rect x="727" y="34" width="139" height="23" rx="11.5" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.4"/>
 <text x="796.5" y="49.5" font-size="11.5" fill="#ffbd2e" text-anchor="middle">Jun 2026 — Present</text>
@@ -39,7 +39,7 @@
 <rect x="18" y="266" width="864" height="112" rx="9" fill="url(#cg)"/>
 <rect x="18" y="266" width="4" height="112" rx="2" fill="url(#ab)"/>
 <text x="44" y="298" font-size="16.5" font-weight="700" fill="#39ff6a">AI/ML Research Intern<tspan font-size="14" font-weight="400" fill="#6e7681">  —  </tspan><tspan font-size="14.5" font-weight="500" fill="#c9d1d9">Speech Emotion Recognition</tspan></text>
-<text x="44" y="320" font-size="12.5" fill="#8b949e">Dhee Center for AI &amp; Data Science</text>
+<text x="44" y="320" font-size="12.5" fill="#8b949e">Dhee Center for AI &amp; Data Science, RV University · Bengaluru</text>
 <text x="44" y="343" font-size="13" fill="#c9d1d9">CNN-LSTM architecture tuning that lifted recognition accuracy by 10%.</text>
 <rect x="792" y="282" width="74" height="23" rx="11.5" fill="#0d1117" stroke="#2ecc40" stroke-opacity="0.4"/>
 <text x="829" y="297.5" font-size="11.5" fill="#ffbd2e" text-anchor="middle">Jun 2024</text>
