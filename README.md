@@ -91,13 +91,21 @@ Mostly I like problems where getting it wrong is expensive.
 
 ---
 
+### 💼 Experience
+
+<div align="center">
+  <img src="assets/experience.svg" alt="experience timeline" width="900" />
+</div>
+
+---
+
 ### 🗂️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🚗 Sync Navigator `July 2026`
+#### 🚗 Sync Navigator
 **In-Vehicle Companion on SmartDeviceLink**
 
 > Android app projecting onto automotive head units
