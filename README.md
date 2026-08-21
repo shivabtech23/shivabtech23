@@ -170,6 +170,14 @@ Mostly I like problems where getting it wrong is expensive.
 
 ---
 
+### 🎓 Education
+
+<div align="center">
+  <img src="assets/education.svg" alt="education" width="900" />
+</div>
+
+---
+
 ### 🏆 Recognitions & Milestones
 
 * 🌏 **Top 2% National Finalist** — India AI Impact Buildathon 2026 (40,000+ participants, GUVI × HCL)
