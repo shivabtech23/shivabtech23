@@ -1,0 +1,30 @@
+<svg width="900" height="168" viewBox="0 0 900 168" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff6a" stop-opacity="0.12"/><stop offset="0.7" stop-color="#39ff6a" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="900" height="168" rx="10" fill="#0d1117"/>
+<rect x="18" y="18" width="280" height="132" rx="9" fill="#161b22"/>
+<rect x="18" y="18" width="280" height="132" rx="9" fill="url(#cg)"/>
+<rect x="18" y="18" width="280" height="3" rx="1.5" fill="#ffd700"/>
+<text x="158" y="60" font-size="26" font-weight="800" fill="#ffd700" text-anchor="middle">TOP 2%</text>
+<text x="158" y="82" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">National Finalist</text>
+<line x1="58" y1="94" x2="258" y2="94" stroke="#2ecc40" stroke-opacity="0.2"/>
+<text x="158" y="112" font-size="12" fill="#c9d1d9" text-anchor="middle">India AI Impact Buildathon 2026</text>
+<text x="158" y="131" font-size="10.5" fill="#8b949e" text-anchor="middle">40,000+ participants · GUVI × HCL</text>
+<rect x="310" y="18" width="280" height="132" rx="9" fill="#161b22"/>
+<rect x="310" y="18" width="280" height="132" rx="9" fill="url(#cg)"/>
+<rect x="310" y="18" width="280" height="3" rx="1.5" fill="#39ff6a"/>
+<text x="450" y="60" font-size="26" font-weight="800" fill="#39ff6a" text-anchor="middle">1st</text>
+<text x="450" y="82" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Prize Winner</text>
+<line x1="350" y1="94" x2="550" y2="94" stroke="#2ecc40" stroke-opacity="0.2"/>
+<text x="450" y="112" font-size="12" fill="#c9d1d9" text-anchor="middle">Bengaluru AI Hackathon</text>
+<text x="450" y="131" font-size="10.5" fill="#8b949e" text-anchor="middle">End-to-end AI solution under time constraints</text>
+<rect x="602" y="18" width="280" height="132" rx="9" fill="#161b22"/>
+<rect x="602" y="18" width="280" height="132" rx="9" fill="url(#cg)"/>
+<rect x="602" y="18" width="280" height="3" rx="1.5" fill="#56d4dd"/>
+<text x="742" y="60" font-size="26" font-weight="800" fill="#56d4dd" text-anchor="middle">WIN</text>
+<text x="742" y="82" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Avishkar Exhibition</text>
+<line x1="642" y1="94" x2="842" y2="94" stroke="#2ecc40" stroke-opacity="0.2"/>
+<text x="742" y="112" font-size="12" fill="#c9d1d9" text-anchor="middle">Inter-College, 1st Place</text>
+<text x="742" y="131" font-size="10.5" fill="#8b949e" text-anchor="middle">ResQ — AI-driven IoT emergency response</text>
+</svg>
