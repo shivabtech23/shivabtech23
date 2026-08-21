@@ -53,42 +53,50 @@ Mostly I like problems where getting it wrong is expensive.
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=E76F00&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39ff6a&labelColor=161b22" />
 
 **Backend & Infra**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39ff6a&labelColor=161b22" />
 
-**ML / Security**
+**AI / ML**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=nmap&logoColor=FFFFFF&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Burp_Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=FF6633&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=2596CD&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=39ff6a&labelColor=161b22" />
+
+**Security**
+<br>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39ff6a&labelColor=161b22" />
 
 **Tools**
 <br>
-<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=39ff6a&labelColor=161b22" />
 
 </div>
-
 ---
 
 ### 💼 Experience
