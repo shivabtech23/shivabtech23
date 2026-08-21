@@ -1,18 +1,8 @@
 <!-- ===== CYBER-TERMINAL 3D HEADER ===== -->
 <div align="center">
 
-```ansi
-[1;32m  ███████╗██╗  ██╗██╗██╗   ██╗     █████╗ ██████╗  ██████╗ ██████╗  █████╗ 
-[1;32m  ██╔════╝██║  ██║██║██║   ██║    ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
-[1;92m  ███████╗███████║██║██║   ██║    ███████║██████╔╝██║   ██║██████╔╝███████║
-[1;92m  ╚════██║██╔══██║██║╚██╗ ██╔╝    ██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║
-[1;32m  ███████║██║  ██║██║ ╚████╔╝     ██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║
-[1;32m  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="assets/terminal-header.svg" alt="shiv_arora terminal header" width="100%" />
 
-```bash
-[SYSTEM::INIT] > shiv_arora // SEC_ENGINEERING • APPLIED_ML • BACKEND_SYSTEMS
-```
 
 <a href="https://github.com/shivarora">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Building+resilient+backend+systems...;Designing+intrusion+detection+engines...;Shipping+applied+ML+pipelines...;Orchestrating+deterministic+LLM+tool+calls..." alt="Typing SVG" />
