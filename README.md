@@ -22,16 +22,6 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ---
 
-### 🕹️ 3D Contribution Landscape
-
-<div align="center">
-  <img alt="3D contribution graph" src="profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</div>
-
-> Generated via [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — refreshed automatically by a scheduled GitHub Action in this repo.
-
----
-
 ### 🛠️ Core Technology Stack
 
 <div align="center">
@@ -91,7 +81,7 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 * 🏅 **Winner** — Avishkar Inter-College Technical Exhibition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivabtech23&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivabtech23&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies" />
 </div>
 
 ---
@@ -100,12 +90,12 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivabtech23&layout=compact&theme=algolia&hide_border=true" alt="Top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivabtech23&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff6a&icon_color=2ecc40&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivabtech23&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff6a&text_color=c9d1d9" alt="Top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabtech23&theme=algolia&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivabtech23&hide_border=true&background=0d1117&stroke=2ecc40&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivabtech23&theme=react-dark&hide_border=true" alt="activity graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivabtech23&bg_color=0d1117&color=39ff6a&line=2ecc40&point=39ff6a&area=true&area_color=2ecc40&title_color=39ff6a&hide_border=true" alt="contribution activity graph" width="95%" />
 
 </div>
 
