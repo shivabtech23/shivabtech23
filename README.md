@@ -20,7 +20,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=shivarora&label=PROFILE+VIEWS&color=32CD32&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shivarora?label=FOLLOWERS&style=for-the-badge&color=32CD32" alt="followers" />
 </p>
 
 </div>
