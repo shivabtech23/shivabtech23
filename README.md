@@ -97,7 +97,7 @@ Mostly I like problems where getting it wrong is expensive.
 <tr>
 <td width="50%" valign="top">
 
-#### 🎙️ VaaniRekha
+#### 🎙️ VaaniRekha · `Feb 2026`
 **AI Voice Fraud Detection API**
 
 > Catches deepfake voices and fraud keywords across Indian languages
@@ -108,12 +108,28 @@ Mostly I like problems where getting it wrong is expensive.
 - 📈 Tiered risk scoring with **Sarvam AI** STT/translation
 - 🛠️ `Python` `FastAPI` `wav2vec2` `Docker` `Railway`
 
-🏅 *Built at GUVI × HCL Hackathon*
+🏅 *GUVI × HCL Hackathon*
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ Hybrid DDoS Detection
+#### 🤖 UPI Autopay Agent · `Jan 2026`
+**Hallucination-Resistant LLM Workflows**
+
+> Workflow-driven agent for UPI autopay resolution
+
+- 🧩 Intent classification + entity extraction
+- ✅ **JSON schema validation** on every execution step
+- 🔀 Branching logic, policy enforcement, fallback handling
+- 📐 Deterministic multi-step agentic workflows
+- 🛠️ `Python` `LLM Orchestration` `JSON Schema`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ Hybrid DDoS Detection · `Jun 2025`
 **Layered ML Threat Scoring**
 
 > Two-model intrusion detection over real network flow telemetry
@@ -125,22 +141,6 @@ Mostly I like problems where getting it wrong is expensive.
 - 🛠️ `Python` `Flask` `scikit-learn` `Scapy`
 
 🏅 *RV University security internship*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 UPI Autopay Agent
-**Hallucination-Resistant LLM Workflows**
-
-> Workflow-driven agent for UPI autopay resolution
-
-- 🧩 Intent classification + entity extraction
-- ✅ **JSON schema validation** on every execution step
-- 🔀 Branching logic, policy enforcement, fallback handling
-- 📐 Deterministic multi-step agentic workflows
-- 🛠️ `Python` `LLM Orchestration` `JSON Schema`
 
 </td>
 <td width="50%" valign="top">
