@@ -28,36 +28,36 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39ff6a&labelColor=161b22" />
 
 **Backend & Infra**
 <br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=39ff6a&labelColor=161b22" />
 
 **ML / Security**
 <br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=39ff6a&labelColor=161b22" />
 
 **Tools**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=39ff6a&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39ff6a&labelColor=161b22" />
 
 </div>
 
@@ -105,9 +105,9 @@ I design high-throughput backend infrastructure, intrusion detection engines, an
 
 ### 📡 Connect
 
-<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff6a&labelColor=161b22" /></a>
+<a href="mailto:shivabtech23@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff6a&labelColor=161b22" /></a>
+<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=39ff6a&labelColor=161b22" /></a>
 
 <sub>⚡ Terminal boots fast. Systems run faster.</sub>
 
