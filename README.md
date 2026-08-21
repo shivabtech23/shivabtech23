@@ -72,6 +72,7 @@ Mostly I like problems where getting it wrong is expensive.
 </tr>
 </table>
 
+---
 
 ### 💼 Experience
 
@@ -166,6 +167,7 @@ Mostly I like problems where getting it wrong is expensive.
   <img src="assets/achievements.svg" alt="achievements" width="900" />
 </div>
 
+---
 
 ### 📊 Real-Time Profile Telemetry
 
@@ -186,9 +188,20 @@ Mostly I like problems where getting it wrong is expensive.
 
 ### 📡 Connect
 
-<a href="https://linkedin.com/in/shivabtech23"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" /></a>
-<a href="mailto:arorashiv4228@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" /></a>
-<a href="https://twitter.com/shivabtech23"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/shivabtech23">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff6a&labelColor=161b22" height="34" />
+</a>
+<a href="mailto:arorashiv4228@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff6a&labelColor=161b22" height="34" />
+</a>
+<a href="https://github.com/shivabtech23">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39ff6a&labelColor=161b22" height="34" />
+</a>
+<a href="https://twitter.com/shivabtech23">
+  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=39ff6a&labelColor=161b22" height="34" />
+</a>
+
+<br><br>
 
 <sub>⚡ Terminal boots fast. Systems run faster.</sub>
 
