@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/shivabtech23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Building+resilient+backend+systems...;Designing+intrusion+detection+engines...;Shipping+applied+ML+pipelines...;Orchestrating+deterministic+LLM+tool+calls..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=650&lines=Cybersecurity+%2B+Applied+ML+%2B+Backend;Intrusion+detection+%26+traffic+anomaly+scoring;Deepfake+voice+fraud+detection+at+scale;Routing+protocol+research+%40+RIT" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,13 +20,27 @@
 
 ---
 
-### 🌐 System Architecture & Engineering
+### 🔭 About Me
 
-I design high-throughput backend infrastructure, intrusion detection engines, and applied machine learning pipelines built for resilient runtime execution.
+**B.Tech (Hons.) Computer Science (Cybersecurity)** student at **RV University, Bengaluru** — building systems that detect threats before they land, not after.
 
-* 🛡️ **Network Security & Defense:** Deep packet inspection, traffic anomaly scoring, and automated mitigation routines.
-* ⚙️ **High-Performance Backends:** Event-driven architecture, distributed caching layers, and high-concurrency APIs.
-* 🤖 **Applied ML Pipelines:** Sequence anomaly detection (CNN-LSTM), low-latency model inference, and structured LLM tool orchestration.
+My work sits at the intersection of **network security**, **backend engineering**, and **applied AI/ML** — from intrusion detection engines that score traffic anomalies in near real time, to speech models that catch deepfake voice fraud across Indian languages. I've applied this as a **research assistant at Rochester Institute of Technology** (routing-protocol experiments on the FABRIC national testbed), a **cybersecurity intern** building hybrid DDoS detection, and as a **Top 2% national finalist** at the India AI Impact Buildathon 2026.
+
+* 🔐 **Cybersecurity** — Intrusion Detection · Network Defense · Traffic Analysis · Wireshark · Burp Suite · Metasploit
+* 🧠 **AI/ML** — PyTorch · TensorFlow · Hugging Face · CNN-LSTM · wav2vec2 · Anomaly Detection
+* ⚙️ **Backend** — Python · FastAPI · Flask · REST APIs · MySQL · Docker · Kubernetes
+* 🌐 **Networking** — OSPF · TCP/IP · Routing · SSH · FABRIC testbed
+* 🏛️ **Bengaluru, India** · RV University (2023 – 2027)
+
+---
+
+### 🛰️ What I'm Working On
+
+> 🔬 **EIBP Routing Protocol Research** — benchmarking OSPF baselines on the FABRIC national testbed at RIT, with Python/FabLib automation for repeatable slice provisioning and result collection.
+
+> 🎙️ **VaaniRekha** — multilingual AI voice-fraud detection API spanning 9+ Indian languages, using a fine-tuned wav2vec2-large-xlsr classifier with sub-6s end-to-end latency.
+
+> 🤖 **LLM Workflow Agents** — schema-validated, hallucination-resistant agentic workflows with policy enforcement, branching logic, and fallback handling.
 
 ---
 
